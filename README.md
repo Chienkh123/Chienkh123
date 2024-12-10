@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Chienkh123
 
-<!--
-**Chienkh123/Chienkh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 😊
 
-Here are some ideas to get you started:
+## 👀 I’m interested in...
+- Web development 🌐
+- Mobile apps 📱
+- Machine learning 🤖
+- Backend technologies 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning...
+- Deep learning 📚
+- Advanced PHP and MySQL 🔍
+- Data Science and AI 🧠
+
+## 💞️ I’m looking to collaborate on...
+- Open source web projects 💻
+- Frontend/Backend development teams 🛠️
+- Machine learning projects 🧑‍💻
+  
+## 😄 Pronouns: He/Him
+- Call me Chien! 😊
+
+## ⚡ Fun fact: 
+- I once built a simple mobile game in one weekend for fun 🎮!
